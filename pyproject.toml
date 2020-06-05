@@ -46,6 +46,7 @@ pydocstyle = "^5.0.2"
 sphinx = "^2.4.4"
 sphinx_rtd_theme = "^0.4.3"
 coverage = {extras = ["toml"], version = "^5.0.4"}
+m2r = "^0.2.1"
 
 [tool.black]
 line-length = 120
